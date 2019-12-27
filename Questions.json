@@ -1,0 +1,279 @@
+{
+"Questions" : {
+"1" : {
+	"question" : "Near a pedestrian crossing, when the pedestrians are waiting to cross the road you should",
+	"option1" : "Sound horn and proceed",
+	"option2" : "Slow down, sound horn and pass",
+	"option3" : "Stop the vehicle and wait till the pedestrians cross the road and then proceed",
+	"option4" : "Increase the speed of the vehicle",
+	"answer" : "Stop the vehicle and wait till the pedestrians cross the road and then proceed"
+	},
+
+"2" : {
+	"question" : "You can overtake a vehicle in the front",
+	"option1" : "Through the right side of the vehicle",
+	"option2" : "Through the left side",
+	"option3" : "Through the left side, if the road is wide",
+	"option4" : "Through the right side, if the road is wide",
+	"answer" : "Through the right side of the vehicle"
+	},
+
+"3" : {
+	"question" : "Validity of learners license",
+	"option1" : "Till the driving license is obtained",
+	"option2" : "6 months",
+	"option3" : "30 days",
+	"option4" : "1 year",
+	"answer" : "6 months"
+	},
+
+"4" : {
+	"question" : "In a road without footpath, the pedestrians,",
+	"option1" : "Should not walk",
+	"option2" : "Should walk on the right side of the road",
+	"option3" : "May walk on either side of the road",
+	"option4" : "Cannot walk on the road",
+	"answer" : "Should walk on the right side of the road"
+	},
+
+
+"5" : {
+	"question" : "Free passage should be given to the following types of vehicles,",
+	"option1" : "Police Vehicles",
+	"option2" : "Ambulance",
+	"option3" : "Express Vehicles",
+	"option4" : "Bigger sized vehicles",
+	"answer" : "Ambulance"
+	},
+
+"6" : {
+	"question" : "Fog lamps are used",
+	"option1" : "During night",
+	"option2" : "When there is mist",
+	"option3" : "When the opposite vehicle is not using dim light",
+	"option4" : "During day time",
+	"answer" : "When there is mist"
+	},
+
+
+"7" : {
+	"question" : "Parking of a vehicle in front of the entrance to the hospital is",
+	"option1" : "Correct",
+	"option2" : "Incorrect",
+	"option3" : "Correct if NO PARKING sign is not provided",
+	"option4" : "None of the above",
+	"answer" : "Incorrect"
+	},
+
+"8" : {
+	"question" : "Where there is a slippery road sign, the driver shall",
+	"option1" : "Reduce the speed",
+	"option2" : "Apply brakes",
+	"option3" : "Proceed in the same way",
+	"option4" : "Turn around and take a different route",
+	"answer" : "Reduce the speed"
+	},
+
+
+"9" : {
+	"question" : "Overtaking when approaching a bend is,",
+	"option1" : "Permissible",
+	"option2" : "Not permissible",
+	"option3" : "Permissible with care",
+	"option4" : "Permissible if the bend Is wide",
+	"answer" : "Not permissible"
+	},
+
+"10" : {
+	"question" : "Drunken driving is",
+	"option1" : "Allowed in private vehicles",
+	"option2" : "Allowed during night time",
+	"option3" : "Prohibited in all vehicles",
+	"option4" : "Allowed if the road is empty and wide",
+	"answer" : "Prohibited in all vehicles"
+	},
+
+"11" : {
+	"question" : "When a fuel is filled in a vehicle,",
+	"option1" : "Shall not check air pressure",
+	"option2" : "Shall not smoke",
+	"option3" : "Shall not use any light of the vehicle",
+	"option4" : "Shall use mobile phones",
+	"answer" : "Shall not smoke"
+	},
+
+"12" : {
+	"question" : "You are approaching a narrow bridge, another vehicle is about the enter the bridge from",
+	"option1" : "Increase the speed and try to cross the bridge as fast as possible",
+	"option2" : "Put on the head light and pass the bridge",
+	"option3" : "Wait till the other vehicle crosses the bridge and the proceed",
+	"option4" : "Slow down and try to cross the bridge as fast as possible",
+	"answer" : "Wait till the other vehicle crosses the bridge and the proceed"
+	},
+
+"13" : {
+	"question" : "Overtaking is prohibited when,",
+	"option1" : "The road ahead is not clearly visible",
+	"option2" : "The road ahead is wide enough",
+	"option3" : "The road center is marked with white broken lines",
+	"option4" : "The road center is not marked with white solid lines",
+	"answer" : "The road ahead is not clearly visible"
+	},
+
+"14" : {
+	"question" : "While turning to a road to the left of the road in which you are going you should,",
+	"option1" : "Show the left turn signal, drive to the center and turn to the left",
+	"option2" : "Sound horn and turn to the left",
+	"option3" : "Show the left side signal, keep to the left side of the road and turn to the left",
+	"option4" : "Show the right turn signal, drive to the center and turn to the left",
+	"answer" : "Show the left side signal, keep to the left side of the road and turn to the left"
+	},
+
+"15" : {
+	"question" : "While you are driving with the head light in high beam during night, a vehicle approaches from the opposite side, you should,",
+	"option1" : "Proceed keeping to the left",
+	"option2" : "Put the head light in dim and bright several times alternately",
+	"option3" : "Dim the head light till the vehicle passes",
+	"option4" : "Increase the speed and proceed",
+	"answer" : "Dim the head light till the vehicle passes"
+	},
+
+"16" : {
+	"question" : "Driver of the vehicle extends his right arm with the palm downward and moves the arm upward. He means,",
+	"option1" : "He is turning to the left",
+	"option2" : "He is slowing down the vehicle",
+	"option3" : "Allowing to overtake",
+	"option4" : "Increase the speed and proceed",
+	"answer" : "He is slowing down the vehicle"
+	},
+
+"17" : {
+	"question" : "Minimum age for getting a license to drive the motor cycle without gear is,",
+	"option1" : "18 years",
+	"option2" : "21 years",
+	"option3" : "16 years",
+	"option4" : "20 years",
+	"answer" : "18 years"
+	},
+
+"18" : {
+	"question" : "To signal while taking a U-turn, show the",
+	"option1" : "Left turn signal",
+	"option2" : "Right turn signal",
+	"option3" : "Slow down signal",
+	"option4" : "No signal",
+	"answer" : "Right turn signal"
+	},
+
+"19" : {
+	"question" : "One time tax for a new car is for,",
+	"option1" : "Till the registration of the vehicle is cancelled",
+	"option2" : "15 years",
+	"option3" : "5 years",
+	"option4" : "Till the vehicle is stolen or damaged",
+	"answer" : "Till the registration of the vehicle is cancelled"
+	},
+
+"20" : {
+	"question" : "A place where parking is prohibited",
+	"option1" : "In front of a parked vehicle",
+	"option2" : "On a one-way road",
+	"option3" : "On a foot path",
+	"option4" : "On a two-way road",
+	"answer" : "On a foot path"
+	},
+
+"21" : {
+	"question" : "When a vehicle is involved in an accident causing injury to any person,",
+	"option1" : "Take the vehicle to the nearest police station and report the accident",
+	"option2" : "Stop the vehicle and report it to the police station",
+	"option3" : "Take all reasonable steps to secure medical attention to the injured and report to the nearest police station",
+	"option4" : "Drive by the accident",
+	"answer" : "Take all reasonable steps to secure medical attention to the injured and report to the nearest police station"
+	},
+
+"22" : {
+	"question" : "The pedestrians shall not cross the road at sharp bends or very near to a stopped vehicle. Why?",
+	"option1" : "Inconvenience to other vehicles",
+	"option2" : "Inconvenience to other road users",
+	"option3" : "Drivers of other vehicles coming at a distance may not see persons crossing the road",
+	"option4" : "The statement is incorrect",
+	"answer" : "Drivers of other vehicles coming at a distance may not see persons crossing the road"
+	},
+
+"23" : {
+	"question" : "Records of private vehicles are:",
+	"option1" : "Registration certificate, G.C.R, Insurance certificate",
+	"option2" : "Registration certificate, Insurance certificate, tax token, Driving License",
+	"option3" : "Registration certificate, permit, trip sheet",
+	"option4" : "Driving License, Permit, G.C.R",
+	"answer" : "Registration certificate, Insurance certificate, tax token, Driving License"
+	},
+
+"24" : {
+	"question" : "The hand brake is to be used,",
+	"option1" : "To reduce the speed",
+	"option2" : "To apply sudden brake",
+	"option3" : "To park a vehicle",
+	"option4" : "To stop the car",
+	"answer" : "To park a vehicle"
+	},
+
+"25" : {
+	"question" : "Minimum age for obtaining driving license for transport vehicles,",
+	"option1" : "25 years",
+	"option2" : "18 years",
+	"option3" : "20 years",
+	"option4" : "16 years",
+	"answer" : "20 years"
+	},
+
+"26" : {
+	"question" : "Overtaking is prohibited in the following case,",
+	"option1" : "State highways",
+	"option2" : "Panchayat roads",
+	"option3" : "Narrow bridges",
+	"option4" : "Normal four lane roads",
+	"answer" : "Narrow bridges"
+	},
+
+"27" : {
+	"question" : "Overspeeding,",
+	"option1" : "Is an offence leading to the suspension of cancellation of driving license",
+	"option2" : "Is an offence leading to punishment by fine",
+	"option3" : "Is not an offence",
+	"option4" : "Is an offence leading to punishment by imprisonment",
+	"answer" : "Is an offence leading to the suspension of cancellation of driving license"
+	},
+
+"28" : {
+	"question" : "When a motor vehicle is involved in an accident,",
+	"option1" : "Shall report to the nearest police station within 24 hours",
+	"option2" : "Shall report to the nearest police station within 12 hours",
+	"option3" : "Shall report to the nearest police station within 48 hours",
+	"option4" : "Cannot Be Reported",
+	"answer" : "Shall report to the nearest police station within 24 hours"
+	},
+
+"29" : {
+	"question" : "When any property of a third party is damaged due to an accident,",
+	"option1" : "Driver shall report to the nearest police station within 24 hours",
+	"option2" : "Driver shall report to the nearest police station within 7 days",
+	"option3" : "Need not report to any station",
+	"option4" : "Driver shall report to the nearest police station within 30 days",
+	"answer" : "Driver shall report to the nearest police station within 24 hours"
+	},
+
+"30" : {
+	"question" : "To carry a pillion rider on a motor cycle,",
+	"option1" : "The vehicle shall be provided with foot rest, hand grip and sari guard",
+	"option2" : "The vehicle shall be provided with side car",
+	"option3" : "Vehicle shall be provided with rear view mirror",
+	"option4" : "Pillion riders are not allowed",
+	"answer" : "The vehicle shall be provided with foot rest, hand grip and sari guard"
+	}
+
+
+}
+
+}

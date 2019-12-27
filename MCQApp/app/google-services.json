@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "536137319654",
+    "firebase_url": "https://mcqapp-b6b8f.firebaseio.com",
+    "project_id": "mcqapp-b6b8f",
+    "storage_bucket": "mcqapp-b6b8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536137319654:android:23555ebf8cdcd707a6a727",
+        "android_client_info": {
+          "package_name": "com.example.mcqapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536137319654-djqgrgnuqpth23blsjcgoa9ig4o48nv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mcqapp",
+            "certificate_hash": "c8ac7bf7320790add62568cc794131141ac6ffec"
+          }
+        },
+        {
+          "client_id": "536137319654-qpjrhlndial0dlvt33bt75lqna3fckfb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mcqapp",
+            "certificate_hash": "31396d51643826f250293099a3bd8c381553142b"
+          }
+        },
+        {
+          "client_id": "536137319654-okjsct3301t18om3mluuvkkt7otc8tna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACwUDJjNwYJvQKEWPRfyP8ETVWuOi2ZJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536137319654-okjsct3301t18om3mluuvkkt7otc8tna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
