@@ -10,16 +10,6 @@
 
 ## Snippets of the app:
 
-<p class="aligncenter">
-<img src="screenshots/mcq1.png" alt="mcq1" width="50%" height="75%">
+![mcq1](screenshots/mcq1.png | width=50% height=75%)
 <img src="screenshots/mcq3.png" alt="mcq3" width="50%" height="75%">
 <img src="screenshots/mcq2.png" alt="mcq2" width="50%" height="75%">
-</p>
-
-<style>
-.aligncenter {
-    text-align: center;
-}
-</style>
-
-
