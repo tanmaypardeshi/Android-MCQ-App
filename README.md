@@ -10,6 +10,6 @@
 
 ## Snippets of the app:
 
-<img src="screenshots/mcq1.png" alt="mcq1" width="100" height="250">
-<img src="screenshots/mcq3.png" alt="mcq3" width="100" height="300">
-<img src="screenshots/mcq2.png" alt="mcq2" width="100" height="300">
+<img src="screenshots/mcq1.png" alt="mcq1" width="200" height="500">
+<img src="screenshots/mcq3.png" alt="mcq3" width="200" height="500">
+<img src="screenshots/mcq2.png" alt="mcq2" width="200" height="500">
