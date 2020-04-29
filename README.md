@@ -13,9 +13,11 @@
 <p align="center">
 <img src="screenshots/mcq1.png" alt="mcq1" width="250" height="500">
 </p>
+<br>
 <p align="center">
 <img src="screenshots/mcq3.png" alt="mcq3" width="250" height="500">
 </p>
+<br>
 <p align="center">
 <img src="screenshots/mcq2.png" alt="mcq2" width="250" height="500">
 </p>
