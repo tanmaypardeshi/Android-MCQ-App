@@ -1,4 +1,4 @@
-#Wed Oct 09 20:08:18 IST 2019
-base.0=C\:\\Users\\ASUS\\Desktop\\MCQApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+#Thu Apr 30 00:01:18 IST 2020
+base.0=/home/tanmay/Code/MCQApp/MCQApp/app/build/intermediates/dex/debug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
