@@ -10,6 +10,6 @@
 
 ## Snippets of the app:
 
-![mcq1](screenshots/mcq1.png | width=50 height=75)
+![mcq1](screenshots/mcq1.png | 100x100)
 <img src="screenshots/mcq3.png" alt="mcq3" width="50%" height="75%">
 <img src="screenshots/mcq2.png" alt="mcq2" width="50%" height="75%">
